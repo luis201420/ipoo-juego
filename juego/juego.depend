@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1415823051 source:d:\juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<allegro.h>
+	"nave.h"
+
+1416439316 d:\juego\nave.h
+	<allegro.h>
+	"efectos.h"
+	<iostream>
+
+1415819732 d:\juego\efectos.h
+	<allegro.h>
+	<iostream>
+
+1417636644 source:f:\juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<allegro.h>
+	<list>
+	<stdlib.h>
+	<time.h>
+	"nave.h"
+	"bala.h"
+	"asteroides.h"
+
+1416756359 f:\juego\nave.h
+	<allegro.h>
+	"efectos.h"
+	<iostream>
+
+1416756263 f:\juego\efectos.h
+	<allegro.h>
+	<iostream>
+
+1416761570 f:\juego\bala.h
+	<allegro.h>
+	<iostream>
+
+1416887816 f:\juego\asteroides.h
+	<allegro.h>
+	<iostream>
+
+1416887793 source:i:\juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<allegro.h>
+	<list>
+	<stdlib.h>
+	<time.h>
+	"nave.h"
+	"bala.h"
+	"asteroides.h"
+
+1416756359 i:\juego\nave.h
+	<allegro.h>
+	"efectos.h"
+	<iostream>
+
+1416756263 i:\juego\efectos.h
+	<allegro.h>
+	<iostream>
+
+1416761570 i:\juego\bala.h
+	<allegro.h>
+	<iostream>
+
+1416887816 i:\juego\asteroides.h
+	<allegro.h>
+	<iostream>
+
